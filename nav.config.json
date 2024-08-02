@@ -1,0 +1,45 @@
+{
+  "public": [
+    
+    {
+      "id": "Menu_SignIn",
+      "nav_url": "index.php?page=Sec_Login",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Iniciar Sesión"
+    },
+    {
+      "id": "Catalogo",
+      "nav_url": "index.php?page=Cliente-Catalogo",
+      "nav_label": "<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Catalogo"
+    }
+    
+
+
+  ],
+  "private": [
+    {
+      "id":"Menu_PaymentCheckout",
+      "nav_url": "index.php?page=Checkout_Checkout",
+      "nav_label": "Carretilla de Compra"
+    },
+    {
+      "id": "Menu_SignIn",
+      "nav_url": "index.php?page=Sec_Login",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Iniciar Sesión"
+    },
+    {
+      "id": "Menu_SignUp",
+      "nav_url": "index.php?page=Sec_Register",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Crear Cuenta"
+    },
+    {
+      "id": "Menu_Usuarios",
+      "nav_url": "index.php?page=landing-Usuario",
+      "nav_label":"<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Usuarios"
+    },
+    {
+      "id": "Catalogo",
+      "nav_url": "index.php?page=Cliente-Catalogo",
+      "nav_label": "<i class=\"fas fa-sign-in-alt\"></i>&nbsp;Catalogo"
+    }
+  ]
+}
